@@ -42,7 +42,7 @@ body {
   }
   
   Button {
-    background:brown;
+    background: #ec7c5d;
     border-radius: 5px;
     border: solid 1px white;
     color: white;
@@ -54,13 +54,13 @@ body {
   Button:hover {
     transition: 0.5s;
     background: white;
-    border: solid 1px white;
+    border: solid 1px black;
     color:rgb(0, 0, 0)
   }
   
   .selected {
     background: white;
-    border: solid 1px white;
+    border: solid 1px black;
     color: #ffffff;
   }
   
