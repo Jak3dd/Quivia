@@ -251,7 +251,7 @@ function canvas() {
   myStickman = document.getElementById("stickman");
   context = myStickman.getContext("2d");
   context.beginPath();
-  context.strokeStyle = "#fff";
+  context.strokeStyle = "#00000";
   context.lineWidth = 2;
 }
 
